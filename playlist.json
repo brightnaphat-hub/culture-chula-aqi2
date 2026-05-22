@@ -1,5 +1,5 @@
 [
   { "type": "dashboard", "duration": 30 },
-  { "type": "image", "src": "media/Picture1.png", "duration": 15 },
-  { "type": "image", "src": "media/Picture2.png", "duration": 15 }
+  { "type": "image", "src": "Picture1.png", "duration": 15 },
+  { "type": "image", "src": "Picture2.png", "duration": 15 }
 ]
